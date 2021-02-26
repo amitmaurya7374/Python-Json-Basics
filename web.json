@@ -1,0 +1,18 @@
+{
+    "yahoo": {
+        "email": "amitm@yahoo.com",
+        "password": "234"
+    },
+    "amazon": {
+        "email": "amitm@yahoo.com",
+        "password": "134"
+    },
+    "google": {
+        "email": "amit@apple.com",
+        "password": "123"
+    },
+    "apple": {
+        "email": "amit@apple.com",
+        "password": "134"
+    }
+}
